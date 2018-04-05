@@ -16,6 +16,7 @@
 		:components
                 ((:file "destruct-operator")
 		 (:file "pattern")
+		 (:file "base-function")
 		 (:file "epilog"))))
   :description "Small Prolog implementation written in Common Lisp"
   :long-description
